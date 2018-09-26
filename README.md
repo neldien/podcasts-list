@@ -25,7 +25,7 @@ But growing up as a first generation immigrant, stories are the way we connect t
 -----
 
 
-## Cooking 
+# Cooking 
 ### The Splendid Table
 ### Cooking Issues
 ### Bon Appetit Foodcast
@@ -34,7 +34,7 @@ But growing up as a first generation immigrant, stories are the way we connect t
 -----
 
 
-## Randoms? 
+# Randoms? 
 ### It's Not That Serious Podcast
 > <p> Started by some friends back home, wouldnt be a complete list without them</p>
  [Give them a listen](https://soundcloud.com/itsnotthatseriouspodcast)

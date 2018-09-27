@@ -19,8 +19,8 @@ plus, growing up i was aw
 -----
 
 # Explanatory
-### How I Built This With Guy Razz
-> <p> guy razz talks with founders of companies, movements, ideas. its great and humbling, and an amazing insight. and he ends each episode with the same question: is your success based on your skills/ability, or luck? most interesting question</p> p
+### How I Built This With Guy Raz
+> <p> guy raz talks with founders of companies, movements, ideas. its great and humbling, and an amazing insight. and he ends each episode with the same question: is your success based on your skills/ability, or luck? most interesting question</p> p
 ### Planet Money
 > <p>econ for dummies, and the great things is that they go over recent events all the time (trade war anyone?) </p> 
 ### Stuff You Should Know

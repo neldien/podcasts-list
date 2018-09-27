@@ -26,7 +26,8 @@ plus, growing up i was aw
 ### Stuff You Should Know
 > <p> 2 guys just talking, and bringing in experts to talk about random things. josh and chuck are pretty funny. sometimes they get derailed, and it can get annoying, but i guess it has its appeal </p> 
 ### Freakonomics Radio
-> <p> one of the authors of the freakanomics book, stephen dubner just tackles random/fun problems. similiar to planet money  </p> 
+> <p> one of the authors of the freakanomics book, stephen dubner just tackles random/fun problems. similiar to planet money  </p>
+
 -----
 
 
@@ -35,8 +36,6 @@ plus, growing up i was aw
 > <p> favorite food podcast. the recipes are like stories, literally leaves my mouth watering all the time. and some awesome tips </p> 
 ### Cooking Issues
 > <p> talk show format, dave arnold is super informed about food science (both actual food and food tech). he takes questions from callers and answers them. reminds me off a cooking version of *Car Talk* </p> 
-### Bon Appetit Foodcast
-> <p> another talk show format, they talk to writers, cooks, randoms who care about food. the episodes arent all great, but there are some good ones! </p> 
 
 -----
 

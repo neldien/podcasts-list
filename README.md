@@ -1,6 +1,9 @@
 # Podcasts 
-this is a list of podcasts i like to listen to! ...
-But growing up as a first generation immigrant, stories are the way we connect to our homeland and heritage. they're how we learn about our past, and we how we learn to relate to our extended families
+this is a list of podcasts i like to listen to!
+
+growing up as a first generation immigrant, stories are the way we connect to our homeland and heritage. they're how we learn about our past, and we how we learn to relate to our extended families. 
+
+plus, growing up i was aw
 
 -----
 
@@ -17,19 +20,23 @@ But growing up as a first generation immigrant, stories are the way we connect t
 
 # Explanatory
 ### How I Built This With Guy Razz
-
+> <p> guy razz talks with founders of companies, movements, ideas. its great and humbling, and an amazing insight. and he ends each episode with the same question: is your success based on your skills/ability, or luck? most interesting question</p> p
 ### Planet Money
+> <p>econ for dummies, and the great things is that they go over recent events all the time (trade war anyone?) </p> 
 ### Stuff You Should Know
+> <p> 2 guys just talking, and bringing in experts to talk about random things. josh and chuck are pretty funny. sometimes they get derailed, and it can get annoying, but i guess it has its appeal </p> 
 ### Freakonomics Radio
-
+> <p> one of the authors of the freakanomics book, stephen dubner just tackles random/fun problems. similiar to planet money  </p> 
 -----
 
 
 # Cooking 
 ### The Splendid Table
+> <p> favorite food podcast. the recipes are like stories, literally leaves my mouth watering all the time. and some awesome tips </p> 
 ### Cooking Issues
+> <p> talk show format, dave arnold is super informed about food science (both actual food and food tech). he takes questions from callers and answers them. reminds me off a cooking version of *Car Talk* </p> 
 ### Bon Appetit Foodcast
-
+> <p> another talk show format, they talk to writers, cooks, randoms who care about food. the episodes arent all great, but there are some good ones! </p> 
 
 -----
 

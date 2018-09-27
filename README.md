@@ -3,7 +3,7 @@ this is a list of podcasts i like to listen to!
 
 growing up as a first generation immigrant, stories are the way we connect to our homeland and heritage. they're how we learn about our past, and we how we learn to relate to our extended families. 
 
-plus, growing up i was aw
+plus, growing up i was awful at telling stories. i would ramble on and on, and my friends would visibily zone out- nothing more demoralizing. so i started to listen to stories to get better at sharing my own
 
 -----
 

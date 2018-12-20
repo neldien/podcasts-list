@@ -13,6 +13,8 @@ plus, growing up i was awful at telling stories. i would ramble on and on, and m
 > <p> My absolute favorite. a compilation of stories from themes story telling nights and events all over the world. </p> 
 ### 99pi
 > <p> the thing about great design is that it isnt noticed. roman mars does a great deconstructing design and sharing the story of how things have become the way they are </p> 
+### Everything is Alive
+> <p> By far one of the weirdests podcasts I listen to. Every episode is an interview with an inanimate object. I think my favorite so far has been with the can of cola, louis.</p>
 ### Ear Hustle
 > <p> another radiolab podcast, this one isnt recorded in oakland, but across the bay in san quentin prisons. a really unique insight into the life of inmates, whose stories are oft overlooked</p> 
 
@@ -41,8 +43,7 @@ plus, growing up i was awful at telling stories. i would ramble on and on, and m
 
 
 # Randoms? 
-### Everything is Alive
-> <p> By far one of the weirdests podcasts I listen to. Every episode is an interview with an inanimate object. I think my favorite so far has been with the can of cola, louis.</p>
+
 
 ### It's Not That Serious Podcast
 > <p> Started by some friends back home, wouldnt be a complete list without them</p>

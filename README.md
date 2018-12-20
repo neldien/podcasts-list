@@ -41,6 +41,9 @@ plus, growing up i was awful at telling stories. i would ramble on and on, and m
 
 
 # Randoms? 
+### Everything is Alive
+> <p> By far one of the weirdests podcasts I listen to. Every episode is an interview with an inanimate object. I think my favorite so far has been with the can of cola, louis.</p>
+
 ### It's Not That Serious Podcast
 > <p> Started by some friends back home, wouldnt be a complete list without them</p>
  [Give them a listen](https://soundcloud.com/itsnotthatseriouspodcast)
